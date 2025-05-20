@@ -19,7 +19,7 @@
 | **14 mm slide rack**       | Angled parking for glass slides                   | **5 × Ø14 mm**        |
 | **Bic holster**            | Snug friction-fit for a standard Bic lighter        | 1                     |
 | **Tool wells**             | Mini sleeves for pokers / dab tools                 | 5 × Ø7.62 mm             |
-| **Catch-all pocket**       | stash for cotton swabs, pearls, etc.     | 1                     |
+| **Catch-all pocket**       | stash for cotton swabs, pearls, etc.     | 5                     |
 
 ## 📸 Gallery
 | Ashtray top | Organizer base |
