@@ -14,7 +14,7 @@
 
 | Zone                        | What it does                                        | Qty / Size            |
 |-----------------------------|-----------------------------------------------------|-----------------------|
-| **Ashtray core**           | 85 mm OD bowl with **coned debowler** in the centre | —                     |
+| **Ashtray core**           | 4.5 in OD bowl with **coned debowler** in the centre | —                     |
 | **Joint / cone rests**     | Tapered cut-outs for pre-rolls                      | 2                     |
 | **14 mm slide rack**       | Angled parking for glass slides                   | **5 × Ø14 mm**        |
 | **Bic holster**            | Snug friction-fit for a standard Bic lighter        | 1                     |
