@@ -16,10 +16,10 @@
 |-----------------------------|-----------------------------------------------------|-----------------------|
 | **Ashtray core**           | 85 mm OD bowl with **coned debowler** in the centre | —                     |
 | **Joint / cone rests**     | Tapered cut-outs for pre-rolls                      | 2                     |
-| **14 mm slide rack**       | Vertical parking for glass slides                   | **5 × Ø14 mm**        |
+| **14 mm slide rack**       | Angled parking for glass slides                   | **5 × Ø14 mm**        |
 | **Bic holster**            | Snug friction-fit for a standard Bic lighter        | 1                     |
-| **Tool wells**             | Mini sleeves for pokers / dab tools                 | 3 × Ø7 mm             |
-| **Catch-all pocket**       | 40 × 25 mm stash for cotton swabs, pearls, etc.     | 1                     |
+| **Tool wells**             | Mini sleeves for pokers / dab tools                 | 5 × Ø7.62 mm             |
+| **Catch-all pocket**       | stash for cotton swabs, pearls, etc.     | 1                     |
 
 ## 📸 Gallery
 | Ashtray top | Organizer base |
@@ -39,7 +39,5 @@
 | Supports       | none needed |
 | Nozzle / Bed   | 240 °C / 80 °C |
 
-*If your Bic slot feels loose, add 0.15 mm horizontal expansion in the slicer.*
 
-## 📂 Folder Structure
 
