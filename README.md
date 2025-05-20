@@ -1,6 +1,6 @@
 # Debowler
 <p align="center">
-  <img src="images/LiveImage.jpg" width="420" alt="Ashtray render">
+  <img src="images/LiveImage.jpeg" width="420" alt="Ashtray render">
 </p>
 
 <h1 align="center">Custom Debowler / Ashtray Combo</h1>
