@@ -1,11 +1,11 @@
 # Debowler
 <p align="center">
-  <img src="images/Ashtraydebolwer.jpg" width="420" alt="Ashtray render">
+  <img src="images/LiveImage.jpg" width="420" alt="Ashtray render">
 </p>
 
 <h1 align="center">Custom Debowler / Ashtray Combo</h1>
 <p align="center">
-  Designed in Autodesk Inventor · 100 % 3-D printable · Used daily at <em>Vapors Smoke Shop</em>
+  Designed in Autodesk Inventor · 100 % 3-D printable · Sold at <em>Vapors Smoke Shop</em>
 </p>
 
 ---
